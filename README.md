@@ -5,4 +5,4 @@ C++ project for solving the 8-Queens problem in chess
 chessboard so that no two queens threaten each other; thus, a solution requires 
 that no two queens share the same row, column, or diagonal. There are 92 solutions."
 
-[[Screenshot.png]]
+![screenshot](https://github.com/MrCars0n/8-Queens/blob/main/Screenshot.png)
